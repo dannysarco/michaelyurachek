@@ -1,51 +1,55 @@
-# 🚀 Michael Yurachek Portfolio
+# 🚀 Michael Yurachek – Developer Portfolio
 
-Welcome to my personal portfolio!  
-This site showcases my projects, skills, and experiences as a fullstack developer.
-
----
-
-### 🌐 Live Site
-
- **[Visit My Portfolio Here](https://michaelyurachek.github.io)**
+Welcome to my personal portfolio site. This project showcases select web development work, technical skills, and key career highlights. It's designed for recruiters, collaborators, and anyone interested in my journey as a fullstack developer.
 
 ---
 
-### 🛠️ Built With
+## 🌐 Live Site
 
-- **HTML5** – Structure and content
-- **CSS** – Styling and layout
-- **JavaScript** – Interactive features
-- **Responsive Design** – Mobile-friendly layout
+👉 [michaelyurachek.com](https://michaelyurachek.com)
 
 ---
 
-### 📸 Preview
+## 🛠️ Tech Stack
+
+- **HTML5** – Semantic structure
+- **CSS** – Custom styling and layout
+- **JavaScript** – Dynamic functionality
+- **Responsive Design** – Mobile-first layout and media queries
+
+---
+
+## 📸 Preview
 
 ![Portfolio Preview](/library/image/random/sitePreview.png)
 
 ---
 
-### 📚 Sections Included
+## 📚 Project Structure
 
-- **Home** – Introduction and highlights
-- **About** – Who I am
-- **Projects** – A showcase of my favorite works
-- **Skills** – Tools and technologies I use
-- **Contact** – How to reach me
+Explore deeper documentation in the [`docs/`](docs/) directory:
 
----
-
-### 🎯 Features
-
-- Fully responsive design across devices 📱🖥️
-- Interactive UI with smooth animations ✨
-- SEO optimized for better visibility 🔍
-- Fast load times and clean code 🧹
+| File / Section         | Description                                               |
+|------------------------|-----------------------------------------------------------|
+| [`docs/index.md`](docs/index.md)       | Overview of this portfolio and its purpose             |
+| [`docs/projects.md`](docs/projects.md) | Descriptions, links, and highlights of each project     |
+| [`docs/about.md`](docs/about.md)       | Personal bio, tech philosophy, and contact methods      |
+| [`docs/setup.md`](docs/setup.md)       | How to run or edit the portfolio locally                |
+| [`docs/resume.md`](docs/resume.md)     | Resume in markdown format or with a PDF link            |
 
 ---
 
-🚀 Getting Started
+## 🎯 Features
+
+- ✅ Fully responsive design across all screen sizes
+- ⚡ Smooth animations and interaction logic
+- 🔍 SEO-optimized layout and metadata
+- 💨 Clean, fast-loading frontend with minimal dependencies
+
+---
+
+## 🚀 Getting Started
+
 ### Clone the repository
 ```bash
 git clone https://github.com/michaelyurachek/michaelyurachek.github.io.git
