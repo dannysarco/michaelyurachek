@@ -1,13 +1,10 @@
 # 🪴 GitHub Branching Strategy
 
----
 
 ## 🔁 Main Branches
 
 - **`main`** – Always contains the production-ready, deployable code.
 - **`dev`** – Active development branch. All new work is merged here first.
-
----
 
 ## 🌿 Working Branches
 
@@ -28,8 +25,6 @@ bugfix/short-description
 **Examples:**
 - `bugfix/fix-login-error`
 - `bugfix/ui-glitch`
-
----
 
 ## 🔧 Workflow Steps
 
@@ -63,8 +58,6 @@ bugfix/short-description
     git push
     ```
 
-    ---
-
 ## ✏️ Commit Message Convention
 Follow this format for clarity:
 ```code
@@ -83,7 +76,6 @@ Follow this format for clarity:
 * test – Adding tests
 * chore – Maintenance tasks
 
----
 
 ### ✅ (Optional) GitHub Tips
 * Use Pull Requests even if you’re solo – they help with context and tracking.
@@ -91,7 +83,6 @@ Follow this format for clarity:
     * Require PRs before merging.
     * Block direct pushes.
 
----
 
 ### 🧭 Visual Overview
 ```code
@@ -101,5 +92,3 @@ main
       ├── feature/add-settings-page
       └── bugfix/fix-login-error
 ```
-
----
